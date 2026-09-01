@@ -1,6 +1,6 @@
 ## Overview
 
-A personal notes organizer maintained by Claude Code.
+A personal notes organizer maintained by opencode.
 
 ## Folder structure
    
@@ -46,23 +46,7 @@ This vault is published as a MkDocs site on GitHub Pages. After ingesting new no
 
 ## List of Topics
 
-Here are some of the topics for the notes you may find. The topics can be Technology focused (i.e. Python, Xarray) or Theme focused (Climate Change, Agriculture). When deciding the main topic when a note covers both - use the theme focused topic as the primary topic.
-
-Technology Topics
-* Machine Learning
-* Embeddings
-* Deep Learning
-* SQL
-* Python
-* Data
-* Agentic Coding
-
-Thematic Topics
-* Climate Change
-* Urban Planning
-* Agriculture
-* Remote Sensing
-* Cartography
+Here are some of the topics for the notes you may find. The topics can be insurance, proactive finance, sea level rise, flooding, and fire focused. Many of the notes are already tagged, for which you can create subtopics, e.g., insurance/flood or insurance/solutions.
 
 ## Topic Page Format
 
