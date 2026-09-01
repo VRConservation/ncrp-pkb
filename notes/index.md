@@ -2,9 +2,15 @@
 
 
 **Summary**: Table of contents of all note topic pages, organized around insurance, proactive finance, sea level rise, flooding, and fire.
-**Last updated**: 2026-09-01.
+**Last updated**: 09-01-2026.
 
 ---
+
+## Overview
+
+A searchable, themed website generated from an [Obsidian](https://obsidian.md/) vault of notes on proactive finance and insurance in the face of climate risk — wildfire, flooding, sea level rise, and the future of property insurance. Published automatically to GitHub Pages on every push to `main`.
+
+This repository combines the vault itself (a `notes/` folder of markdown topic pages) with an [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) site configuration, and an `AGENTS.md` playbook that [opencode](https://opencode.ai) follows to file new notes into the right pages automatically.
 
 ## Latest Finds
 
