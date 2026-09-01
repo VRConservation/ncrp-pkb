@@ -1,7 +1,7 @@
-site_name: Your Notes
-site_url: https://YOUR_USERNAME.github.io/YOUR_REPO/
-repo_url: https://github.com/YOUR_USERNAME/YOUR_REPO
-repo_name: YOUR_USERNAME/YOUR_REPO
+site_name: ncrp-pkb
+site_url: https://3point.xyz/ncrp-pkb
+repo_url: https://github.com/VRConservation/ncrp-pkb
+repo_name: ncrp-pkb
 edit_uri: edit/main/notes/
 
 docs_dir: notes
