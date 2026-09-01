@@ -1,4 +1,4 @@
-# Insurance Data
+# Data
 
 
 **Summary**: Risk data, catastrophe modeling, and the WUI Data Commons—the data infrastructure needed to inform wildfire mitigation, insurance, and risk modeling.
@@ -32,4 +32,4 @@
 
 ## Related topics
 
-[[Insurance]], [[Insurance_Fire]], [[Insurance_Solutions]], [[Insurance_Community]], [[Insurance_Climate]]
+[[Insurance]], [[Fire]], [[NBS]], [[Community]], [[Climate]]

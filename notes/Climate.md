@@ -1,4 +1,4 @@
-# Insurance Climate
+# Climate
 
 
 **Summary**: Examines how climate change is reshaping the insurance industry, shrinking the range of insurability, and driving innovation in risk transfer, resilience building, and climate disclosure.
@@ -44,4 +44,4 @@
 
 ## Related topics
 
-[[Insurance]], [[Insurance_Fire]], [[Insurance_Flood]], [[Insurance_Parametric]], [[Insurance_Community]], [[Insurance_Funding]], [[Insurance_Nature]], [[Insurance_Data]], [[Insurance_Solutions]], [[Flooding]], [[Sea_Level_Rise]], [[Fire]]
+[[Insurance]], [[Fire]], [[Flooding]], [[Funding]], [[Community]], [[NBS]], [[Data]], [[SLR]]

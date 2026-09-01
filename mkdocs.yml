@@ -58,16 +58,13 @@ nav:
   - Home:
     - index.md
     - Insurance: Insurance.md
-    - Insurance Fire: Insurance_Fire.md
-    - Insurance Flood: Insurance_Flood.md
-    - Insurance Climate: Insurance_Climate.md
-    - Insurance Community: Insurance_Community.md
-    - Insurance Parametric: Insurance_Parametric.md
-    - Insurance Solutions: Insurance_Solutions.md
-    - Insurance Nature: Insurance_Nature.md
-    - Insurance Funding: Insurance_Funding.md
-    - Insurance Data: Insurance_Data.md
-    - Sea Level Rise: Sea_Level_Rise.md
-    - Flooding: Flooding.md
     - Fire: Fire.md
+    - NBS: NBS.md
+    - Climate: Climate.md
+    - Flooding: Flooding.md
+    - Funding: Funding.md
+    - SLR: SLR.md
+    - Data: Data.md
+    - Community: Community.md
     - Changelog: log.md
+    - Catalog: Catalog.md

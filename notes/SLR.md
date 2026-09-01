@@ -1,4 +1,4 @@
-# Sea Level Rise
+# SLR
 
 
 **Summary**: Insurance and finance strategies for building resilience to sea level rise, including community-based catastrophe insurance, resilience districts, performance-based risk transfer, and nature-based solutions.
@@ -29,9 +29,8 @@
 ## Related topics
 
 - [[Insurance]]
-- [[Insurance_Flood]]
-- [[Insurance_Parametric]]
-- [[Insurance_Community]]
-- [[Insurance_Solutions]]
-- [[Insurance_Nature]]
 - [[Flooding]]
+- [[Funding]]
+- [[Community]]
+- [[NBS]]
+- [[Fire]]

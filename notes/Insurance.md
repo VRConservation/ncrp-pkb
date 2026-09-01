@@ -31,15 +31,11 @@
 
 ## Related topics
 
-- [[Insurance_Fire]] — wildfire insurance, FAIR Plan, home hardening, good fire
-- [[Insurance_Flood]] — flood insurance, NFIP, community flood insurance
-- [[Insurance_Community]] — community-based catastrophe insurance
-- [[Insurance_Parametric]] — parametric and index-based insurance
-- [[Insurance_Nature]] — nature-based solutions and insurance
-- [[Insurance_Funding]] — financing and resilience investment
-- [[Insurance_Data]] — risk data and catastrophe modeling
-- [[Insurance_Solutions]] — innovative insurance products and build back better
-- [[Insurance_Climate]] — climate risk and insurability
-- [[Sea_Level_Rise]] — sea level rise resilience (e.g. Humboldt Bay)
-- [[Flooding]] — flood risk and disaster risk reduction
-- [[Fire]] — fire, prescribed fire, and biomass
+- [[Fire]] — wildfire insurance, FAIR Plan, home hardening, good fire, fire science
+- [[Flooding]] — flood insurance, NFIP, community flood insurance
+- [[Community]] — community-based catastrophe insurance
+- [[Funding]] — parametric insurance, financing and resilience investment
+- [[NBS]] — nature-based solutions, innovative products and build back better
+- [[Data]] — risk data and catastrophe modeling
+- [[Climate]] — climate risk and insurability
+- [[SLR]] — sea level rise resilience (e.g. Humboldt Bay)

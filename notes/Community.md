@@ -1,4 +1,4 @@
-# Insurance Community
+# Community
 
 
 **Summary**: Community-based catastrophe insurance (CBCI), group or meso-insurance, and insurance innovation that meet the social and equity needs of low- and moderate-income households.
@@ -34,4 +34,4 @@
 
 ## Related topics
 
-Related: [[Insurance]], [[Insurance_Flood]], [[Insurance_Parametric]], [[Insurance_Funding]], [[Insurance_Climate]], [[Insurance_Nature]]
+Related: [[Insurance]], [[Flooding]], [[Funding]], [[Climate]], [[NBS]]

@@ -14,3 +14,7 @@ __pycache__/
 
 # OS cruft
 .DS_Store
+
+# Workflow/crosswalk
+toc_crosswalk.md
+workflow.md

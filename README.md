@@ -25,7 +25,7 @@ follows to file new notes into the right pages automatically.
 | `raw/` | Drop new, unprocessed notes here (`New_Notes.md` is the inbox file). |
 | `AGENTS.md` | Instructions opencode follows to process notes from `raw/` into topic pages in `notes/`, and to keep the site in sync. |
 | `mkdocs.yml` | Site configuration — theme, navigation, plugins. |
-| `hooks.py` | Adds a live note-count, e.g. `Insurance Fire (20)`, next to each topic in the site navigation. |
+| `hooks.py` | Adds a live note-count, e.g. `Fire (20)`, next to each topic in the site navigation. |
 | `requirements.txt` | Pinned Python packages needed to build the site. |
 | `.github/workflows/deploy.yml` | GitHub Actions workflow that builds and deploys the site to GitHub Pages on every push to `main`. |
 | `.obsidian/` | Minimal Obsidian vault config, so this folder opens as a vault immediately. |
@@ -36,18 +36,14 @@ The vault organizes notes around property insurance and resilience under
 climate risk. See `notes/index.md` for the current table of contents:
 
 - Insurance (hub)
-- Insurance Fire — FAIR Plan crisis, mitigation discounts, home hardening
-- Insurance Flood — NFIP, community-based flood insurance, parametric products
-- Insurance Climate — insurability, climate disclosures
-- Insurance Community — community-based catastrophe insurance (CBCI)
-- Insurance Parametric — index-based insurance
-- Insurance Solutions — proactive products, building back stronger
-- Insurance Nature — nature-based solutions and risk reduction
-- Insurance Funding — municipal bonds, resilience investment
-- Insurance Data — catastrophe modeling, WUI Data Commons
-- Sea Level Rise
-- Flooding
-- Fire
+- Fire — wildfire insurance (FAIR Plan, mitigation, prescribed fire, utilities), fire science
+- NBS — nature-based solutions and insurance-driven resilience tools
+- Climate — insurability under climate risk, climate disclosures
+- Flooding — NFIP, community-based and parametric flood insurance, managed retreat
+- Funding — municipal bonds, resilience investment, parametric insurance
+- SLR — sea level rise resilience and coastal financing
+- Data — catastrophe modeling, WUI Data Commons
+- Community — community-based catastrophe insurance (CBCI)
 
 ## Adding notes
 
